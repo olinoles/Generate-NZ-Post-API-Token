@@ -7,7 +7,8 @@ Tested on Wordpress up to PHP 7.4
 
 <h2>Use:</h2>  
 
-Host this file on your webserver and use it to retrieve an API token when needed for client calls to the NZ Post API.
+Host this file on your webserver and use it to retrieve an API token when needed for client calls to the NZ Post API.  
+You will need an NZ Post API client ID and client secret. Don't forget to insert your referal URL on Line 18.
 
 <h2>Security:</h2>  
 
