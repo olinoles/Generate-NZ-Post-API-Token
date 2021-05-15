@@ -15,7 +15,7 @@ $headers = [
     'Accept-Language: en-US,en;q=0.5',
     'Cache-Control: no-cache',
     'Content-Type: application/x-www-form-urlencoded; charset=utf-8',
-    'Referer: https://www.kiwiquads.co.nz', //Your referrer address,
+    'Referer: YOUR URL HERE', //Your referrer address,
     'grant_type: client_credentials'
 ];
 
