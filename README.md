@@ -1,6 +1,7 @@
 <h2>Description:</h2>  
 
-A really basic PHP script to retrieve an API token for the NZ Post API.
+A really basic PHP script to retrieve an API token for the NZ Post API. I use this for retrieving a client token for my address validator script.
+API keys need to be kept secret, so a backend token generator is required when making client calls to the NZ Post API.
 <h2>Compatibility:</h2>  
 
 Tested on Wordpress up to PHP 7.4
@@ -16,4 +17,4 @@ Be mindful where you host this file and who can access it. This script would con
 
 <h2>Issues:</h2>  
 
-If you come across any issues or conerns while using this script, please let me know.
+If you come across any issues or concerns while using this script, please let me know.
